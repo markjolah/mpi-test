@@ -20,4 +20,4 @@ $ FC="" CC="" CXX="" ./build.sh
 ```
 
 Links:
-  * [CMake `FindMPI.cmake` doc](https://cmake.org/cmake/help/v3.6/module/FindMPI.html)
+  * [CMake `FindMPI.cmake` doc](https://cmake.org/cmake/help/latest/module/FindMPI.html)
